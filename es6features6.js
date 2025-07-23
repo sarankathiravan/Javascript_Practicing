@@ -8,4 +8,4 @@ class Animal {
   }
 }
 const dog = new Animal("Dog");
-dog.speak(); // Dog makes a sound.
+dog.speak();
